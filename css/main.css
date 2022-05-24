@@ -186,16 +186,24 @@ body {
     margin: 0;
     padding: 0;
     list-style: none;
+    margin-bottom: 80px;
 }
 
 .service-item {
     display: flex;
     align-items: center;
     margin: 0;
+    margin-bottom: 80px;
     padding: 0;
+
 }
 
-.first-item {
+.last-item {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
     margin-bottom: 80px;
 }
 
@@ -217,13 +225,6 @@ body {
     color: #444444;
 }
 
-.second-item {
-    margin-bottom: 80px;
-}
-
-.third-item {
-    margin-bottom: 80px;
-}
 
 .center-link {
     display: block;
