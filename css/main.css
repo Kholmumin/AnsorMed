@@ -14,6 +14,8 @@ body {
     padding-right: 20px;
 }
 
+.hero{}
+
 .header-box {
     display: flex;
     justify-content: space-between;
@@ -113,6 +115,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 29px;
 }
 
 .hero-box-top {
